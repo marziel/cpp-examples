@@ -15,7 +15,7 @@ C++ code snippets demonstrating modern and/or non-obvious languge features.
 * **mixin**: mixin design pattern showcase
 * **naked_asm**: usage of 'naked' assembly code from C++
 * **nested_exc**: usage of nested exceptions
-* **odr_violation**: a nasty exaple of 'One-Definition Rule' violation
+* **odr_violation**: a nasty exaple of the 'One-Definition Rule' violation
 * **optional_and_concepts**: usage of *std::optional* and, by the way, Concepts TS
 * **param_pack_expansion**: folding/expanding template parameter packs
 * **pointer_to_field**: usage of pointers to class's fields, some explanations about offsets and struct sizing

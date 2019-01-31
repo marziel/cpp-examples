@@ -20,6 +20,7 @@ C++ code snippets demonstrating modern and/or non-obvious languge features.
 * **param_pack_expansion**: folding/expanding template parameter packs
 * **pointer_to_field**: usage of pointers to class's fields, some explanations about offsets and struct sizing
 * **prioritised_overload**: how to make an uniform interface to several methods chosen (prioritised) by number
+* **ref_overload_ambig**: a way of using references with function overloads that leads to a covert error and how to prevent this
 * **uncaught_exc**: usage of *std::uncaught_exceptions*
 
 Compile with attached CMake scripts using *g++*. Some examples can be compiled with *clang++* as well.
